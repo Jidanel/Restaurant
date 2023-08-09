@@ -1,0 +1,18 @@
+
+
+**BIENVENUE AU RESTAURANT JIDANEL******************************************
+ Numero Facture : 73114723 
+ Nom du Client : nsas
+ Numero de téléphone : 0
+****************************************
+ Produits 		 Quantité 		 Prix 
+****************************************
+ Nombres de pains 		 10 		 1500 
+
+****************************************
+Total Petit Dejeuner HT : 	 1500 
+Total Boisson HT : 	 0 
+Total HT : 	 1500 
+TVA : 	 0.1925 
+Total TTC : 	 1788.75 
+
