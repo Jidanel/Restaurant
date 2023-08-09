@@ -1,0 +1,20 @@
+
+
+**BIENVENUE AU RESTAURANT JIDANEL******************************************
+ Numero Facture : 313947598 
+ Nom du Client : nsas
+ Numero de téléphone : 0
+****************************************
+ Produits 		 Quantité 		 Prix 
+****************************************
+ Nombres de pains 		 10 		 1500 
+
+ Nombres d'omelettes 		 2 		 600 
+
+****************************************
+Total Petit Dejeuner HT : 	 2100 
+Total Boisson HT : 	 0 
+Total HT : 	 2100 
+TVA : 	 0.1925 
+Total TTC : 	 2504.25 
+

@@ -1,0 +1,20 @@
+
+
+**BIENVENUE AU RESTAURANT JIDANEL******************************************
+ Numero Facture : 661396684 
+ Nom du Client : ns
+ Numero de téléphone : 0
+****************************************
+ Produits 		 Quantité 		 Prix 
+****************************************
+ Nombres de pains 		 1 		 150 
+
+ Cuillère de beurre  		 1 		 50 
+
+****************************************
+Total Petit Dejeuner HT : 	 200 
+Total Boisson HT : 	 0 
+Total HT : 	 200 
+TVA : 	 0.1925 
+Total TTC : 	 238.5 
+

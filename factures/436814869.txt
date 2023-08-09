@@ -1,0 +1,32 @@
+
+
+**BIENVENUE AU RESTAURANT JIDANEL******************************************
+ Numero Facture : 436814869 
+ Nom du Client : nsas
+ Numero de téléphone : 0
+****************************************
+ Produits 		 Quantité 		 Prix 
+****************************************
+ Nombres de pains 		 1 		 150 
+
+ Nombres d'omelettes 		 1 		 300 
+
+ Cuillères de mayonnaise 		 1 		 100 
+
+ Tranches de sardines 		 1 		 250 
+
+ Tasses de lait 		 1 		 250 
+
+ Plats Okok 		 1 		 1000 
+
+ Batons de manioc 		 4 		 400 
+
+ Kadji Beer 		 1 		 700 
+
+****************************************Total Petit Dejeuner HT : 	 1050 
+Total Dejeuner HT : 	 1400 
+Total Boisson HT : 	 700 
+Total HT : 	 3150 
+TVA : 	 0.1925 
+Total TTC : 	 3486.87 
+

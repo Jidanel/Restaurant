@@ -2,12 +2,12 @@ from tkinter import *
 from PIL import ImageTk, Image #gerer le contenaire d'affichage de limage: imagetk ainsi que l'image
 from tkinter import messagebox, ttk
 import os #pour gerer l'impression
-import math, random
+import math, random  
 
 class restaurant:
     def __init__(self,root):
         self.root=root
-        self.root.title("Restaurant")
+        self.root.title("Restaurant Jodysoft")
         self.root.resizable(False,False)
         self.root.geometry("1366x768+0+0")
 
