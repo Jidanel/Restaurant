@@ -7,7 +7,7 @@ import math, random
 class restaurant:
     def __init__(self,root):
         self.root=root
-        self.root.title("Restaurant Jodysoft")
+        self.root.title("Restaurant")
         self.root.resizable(False,False)
         self.root.geometry("1366x768+0+0")
 
